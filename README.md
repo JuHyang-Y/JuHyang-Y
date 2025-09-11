@@ -38,7 +38,7 @@ Here are some ideas to get you started:
         <Strong> 📧 3925yjh@daum.net</Strong>
       </p>
       <a href=https://velog.io/@ju_hyanghyang> <img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white&link=https://velog.io/@ju_hyanghyang"> </a><br> 
-      <a href=https://www.linkedin.com/in/주향-윤-2bab27383/> <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/주향-윤-2bab27383"> </a>
+      <a href=https://www.linkedin.com/in/juhyang-yun-2bab27383/> <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/juhyang-yun-2bab27383"> </a>
       </div>  <br> 
     <div align= "center">  </div> 
     </div>
